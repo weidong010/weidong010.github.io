@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+locale                   : "China Beijing"
+title                    : "Weidong Wang 王伟东"
 title_separator          : "-"
-name                     : &name "Xing liu"
+name                     : &name "Weidong Wang"
 description              : &description "Welcome to my webpage!"
-url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weidong010.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XingLLiu/XingLLiu.github.io"
+repository               : "weidong010/weidong010.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
+  name             : "Weidong Wang"
   avatar           : "profile_nanjing.png"
   bio              : "PhD student of Statistics at Imperial College London"
-  location         : "London, UK"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
